@@ -330,3 +330,10 @@
 /node_modules/qs/lib/utils.js
 /node_modules/qs/test/utils.js
 /node_modules/express/lib/view.js
+/lib/jasmine-3.6.0/boot.js
+/lib/jasmine-3.6.0/jasmine.css
+/lib/jasmine-3.6.0/jasmine.js
+/lib/jasmine-3.6.0/jasmine-html.js
+/lib/jasmine-3.6.0/jasmine_favicon.png
+/MIT.LICENSE
+/SpecRunner.html
