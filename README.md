@@ -1,3 +1,5 @@
+Josh in the mix
+
 # News Summary challenge
 
 * Feel free to use Google, your notes, books, etc. but work on your own.
